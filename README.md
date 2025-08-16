@@ -74,7 +74,7 @@ CIFAR10-Image-Classification/
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dustinober1/CIPHR10-Image-Classification.git
    cd CIFAR10-Image-Classification
    ```
 
